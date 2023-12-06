@@ -21,3 +21,7 @@ enforcing Memory Consistency Models (MCMs) on microarchitecture.
 Generated microarchitecture is verified against litmus tests
 in the Murphi model checker.
 
+# CV
+
+This is my [CV](https://userAZ.github.io/assets/cv.pdf).
+
