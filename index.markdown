@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: My Research Webpage
+title: An Qi
 ---
 
 I am a PhD student, currently at the University of Utah, previously at the
